@@ -1,0 +1,2 @@
+# noobcoin
+basic blockchain creation
